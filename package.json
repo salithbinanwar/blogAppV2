@@ -11,7 +11,7 @@
   "author": "salith",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.2",
+    "bootstrap": "^4.6.0",
     "concurrently": "^6.2.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
@@ -19,6 +19,7 @@
     "mongoose": "^5.12.13",
     "nodemon": "^2.0.7",
     "path": "^0.12.7",
+    "react-bootstrap": "^1.6.1",
     "react-router-dom": "^5.2.0",
     "router": "^1.3.5"
   },
