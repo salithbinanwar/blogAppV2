@@ -1,0 +1,9 @@
+.blogBody{
+    /* background-image:url(../images/snow-4726119_1920.jpg); */
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 10%;
+    padding-bottom: 30%;
+    
+}
